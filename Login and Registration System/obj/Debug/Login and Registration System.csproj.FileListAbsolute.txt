@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\bin\Debug\Login and Registration System.exe.config
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\bin\Debug\Login and Registration System.exe
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\bin\Debug\Login and Registration System.pdb
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\obj\Debug\Login and Registration System.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\obj\Debug\Login and Registration System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\obj\Debug\Login_and_Registration_System.fmRegister.resources
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\obj\Debug\Login_and_Registration_System.frmLogin.resources
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\obj\Debug\Login_and_Registration_System.Properties.Resources.resources
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\obj\Debug\Login and Registration System.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\obj\Debug\Login and Registration System.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\obj\Debug\Login and Registration System.exe
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\obj\Debug\Login and Registration System.pdb
+C:\Users\ACER\source\repos\C#\Login and Registration System\Login and Registration System\obj\Debug\Login_and_Registration_System.dashboard.resources
